@@ -1,1 +1,3 @@
 directly updating in git hub
+fetch+merge test in single step
+
